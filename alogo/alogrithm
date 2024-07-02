@@ -1,0 +1,13 @@
+
+1. Declare three variables: sentenceLength and set it to 0, wordCount and set it to 1 (assuming the sentence has at least one word), and vowelCount and set it to 0.
+2. Create a loop that iterates through each character of the sentence.
+3. Inside the loop:
+   - Increment sentenceLength by 1 for each character.
+   - Check if the character is a space. If it is, increment wordCount by 1.
+   - Check if the character is a vowel (a, e, i, o, u). If it is, increment vowelCount by 1.
+4. Once the loop finishes, print out the following results:
+   - The total number of characters in the sentence stored in sentenceLength.
+   - The total number of words in the sentence stored in wordCount.
+   - The total number of vowels in the sentence stored in vowelCount.
+
+This algorithm accurately calculates the length of the sentence, the number of words, and the number of vowels in the sentence.
